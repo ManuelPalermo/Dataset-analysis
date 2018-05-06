@@ -4,3 +4,7 @@ Analysis of a Dataset (effects of insulin in skeletal muscle) in order to learn 
 
 Dataset avaiable at: 
 https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3715
+
+Dataset size:
+Data:   Samples x Genes ------> (110, 12626)
+Meta:   Samples x Variables --> (110, 4)
