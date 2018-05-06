@@ -6,8 +6,6 @@ Dataset avaiable at:
 https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3715
 
 
-Dataset size:
-
-Data:   Samples x Genes ------> (110, 12626)
-
+Dataset size:\n
+Data:   Samples x Genes ------> (110, 12626)\n
 Meta:   Samples x Variables --> (110, 4)
